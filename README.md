@@ -70,7 +70,7 @@ This project demonstrates how **n8n workflow automation** can be used to streaml
                     └──────────────────────┘
 
 
-///
+---
 ## Technology Stack
 
 - **n8n** — Workflow automation
