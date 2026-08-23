@@ -71,7 +71,7 @@ This project demonstrates how **n8n workflow automation** can be used to streaml
 
 
 
-## **Technology Stack**
+## Technology Stack
 
 - **n8n** — Workflow automation
 - **ConnectWise Manage** — IT service management
@@ -79,7 +79,7 @@ This project demonstrates how **n8n workflow automation** can be used to streaml
 - **JavaScript** — Data transformation and business logic
 - **REST APIs** — System integration
 
-## **Project Status**
+## Project Status
 
 **Status:** Published n8n Workflow
 
@@ -87,11 +87,11 @@ The workflow has been implemented and published in n8n.
 
 A sanitized version is included in this repository for portfolio demonstration and technical reference.
 
-## **Documentation**
+## Documentation
 
 Detailed technical documentation is available in the `docs` directory.
 
-## **Author**
+## Author
 
 **Pulin Shah**
 
