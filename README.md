@@ -68,7 +68,7 @@ This project demonstrates how **n8n workflow automation** can be used to streaml
                     │ ConnectWise Ticket   │
                     │      Assignment      │
                     └──────────────────────┘
-## Technology Stack ##
+## **Technology Stack**
 n8n — Workflow automation
 ConnectWise Manage — IT service management
 Google Sheets — Configuration data
@@ -76,7 +76,7 @@ JavaScript — Data transformation and business logic
 REST APIs — System integration
 Project Status
 
-## Status: Published n8n Workflow ##
+**Status: Published n8n Workflow**
 
 The workflow has been implemented and published in n8n.
 
@@ -86,8 +86,8 @@ Documentation
 
 Detailed technical documentation is available in the docs directory.
 
-## Author
+**Author
 
 Pulin Shah
 
-IT Automation & AI Engineering ##
+IT Automation & AI Engineering**
